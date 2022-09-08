@@ -79,7 +79,7 @@ const Add = () => {
           <UserBox>
             <Avatar sx={{ width: "30px", height: "30px", cursor: "pointer" }} />
             <Typography fontWeight={500} variant="span">
-              JM Smith
+              JM Grande
             </Typography>
           </UserBox>
           <TextField
